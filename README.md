@@ -1,0 +1,1 @@
+A project that reimplements React hooks like useState, useEffect, and more using Vanilla JavaScript. Explore the core concepts of React by building them from scratch, and gain a deeper understanding of state management, lifecycle handling, and functional programming principles
